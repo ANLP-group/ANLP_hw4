@@ -1,4 +1,10 @@
-The files in the `comet/` directory were almost entirely adopted from the original implementaion https://github.com/atcbosselut/comet-commonsense. 
+## Note for TAs: 
+This repo contains unstructured code of our project, due to the size limit, we can't upload the whole structured version with our model , pk. Check this drive here for full version:  https://drive.google.com/drive/folders/1-3THX-pVEawAfZ6tnf9PtnCAXWOUksLv?usp=sharing 
+
+
+
+## More project detail: 
+The files in the `comet/` directory were almost entirely adopted from the original implementation https://github.com/atcbosselut/comet-commonsense. 
 
 To extract COMET commonsense features, first download the required files from [here](https://drive.google.com/file/d/1vNi4TViLKX_V_wGVXfhpvKimqMjhGBNX/view?usp=sharing). Keep the `atomic_pretrained_model.pickle` in `comet/pretrained_models/` and the other pickle file in `comet/data/atomic/processed/generation/`. Then you can extract commonesnse features for all the datasets using
 
